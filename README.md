@@ -7,22 +7,19 @@ This analysis aims to help the Colorado Board of Elections employee complete the
 ## Election-Audit Results: 
 ### 369,711 votes were cast in the election.
 
-<img width="193" alt="Screen Shot 2022-11-01 at 1 39 24 PM" src="https://user-images.githubusercontent.com/111788394/199301746-df63b2a3-7b38-49da-9b24-af9e6fd16bd0.png">
+<img width="400" alt="Screen Shot 2022-11-01 at 2 18 13 PM" src="https://user-images.githubusercontent.com/111788394/199308392-88554825-b125-4f62-b6cf-43fcc3d38114.png">
+
 
 ### Candidates
 - Charles Casper Stockham
-
 - Diana DeGette
-
 - Raymon Anthony Doane
 
 ### Candidate results
 - Charles Casper Stockham:  23.0% - 85,213 votes
 - Diana DeGette:  73.8% - 272,892 votes 
 - Raymon Anthony Doane:  3.1% - 11,606 votes
- 
- <img width="293" alt="Screen Shot 2022-11-01 at 1 39 49 PM" src="https://user-images.githubusercontent.com/111788394/199301870-cefbe126-af23-4f86-92cd-2d2b3437bc86.png">
- 
+
 ### Counties
 - Jefferson
 - Denver
@@ -35,7 +32,7 @@ This analysis aims to help the Colorado Board of Elections employee complete the
 
 ### The Winner
 - Diana DeGette
-<img width="240" alt="Screen Shot 2022-11-01 at 1 39 57 PM" src="https://user-images.githubusercontent.com/111788394/199301950-554eb050-7a81-4d46-b621-c544cb45dd01.png">
+<img width="292" alt="Screen Shot 2022-11-01 at 2 22 00 PM" src="https://user-images.githubusercontent.com/111788394/199309060-1ba3fe47-da37-4f58-89e6-bac8963d8974.png">
 
 ## Summary
 
