@@ -25,7 +25,7 @@ This analysis aims to help the Colorado Board of Elections employee complete the
 - Denver
 - Araphoe
   
-### Counties results
+### County results
 - Jefferson: 10.5% - 38,855 votes
 - Denver: 82.8% - 306,055 votes
 - Araphoe: 6.7% -24,801 votes
